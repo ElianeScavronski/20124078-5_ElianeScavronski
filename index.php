@@ -49,6 +49,13 @@
             min-height: 60px;
             padding: 40px;
         }
+        .container{
+            max-width: 800px;
+            display: flex;
+            margin: auto;
+            padding-top: 30px;
+            flex-wrap: wrap;
+        }
     </style>
 </head>
 <body>
@@ -64,8 +71,12 @@
                 <li>Localização</li>
             </ul>
         </nav>
-        <div class= "content">
-            Conteúdo
+        <div class="content">
+            <div class="container">
+            <?php 
+                include('pages/home.php')
+            ?>
+            </div>            
         </div>
         <footer>
             Footer
