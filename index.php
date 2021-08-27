@@ -7,6 +7,8 @@
     <title>Divino - Doces Finos</title>
     <link rel="stylesheet" href="css/page.css">
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/contato.css">
+    <link rel="stylesheet" href="css/home.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bitter&display=swap" rel="stylesheet">
@@ -27,7 +29,9 @@
                 <li>
                 <a href="index.php?page=contato">Contato</a>  
             </li>
-                <li>Localização</li>
+                <li>
+                    <a href="index.php?page=localizacao">Localização</a>    
+                </li>
             </ul>
         </nav>
         <div class="content">
@@ -46,7 +50,7 @@
             </div>            
         </div>
         <footer>
-            Footer
+            <a>Aluna: Eliane Scavronski  RA: 20124078-5</a>
         </footer>
     </div>   
 </body>

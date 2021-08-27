@@ -16,10 +16,11 @@
 
 }
 .form-contact button {
-    color: #fff;
-    background-color: #FFF5F2;
+    text-decoration: none;
+    color: #FFF;
+    background-color: #FF7143;
     padding: 12px;
-    border: 0;
+    font-weight: bold;
     border-radius: 7px;
     margin: 20px 0 20px 0;
     font-size: 20px;

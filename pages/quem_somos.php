@@ -6,7 +6,8 @@
 </div>
 <div class='prod-cr'>
         <h1>Um pouco da nossa história</h1>
-        <p>
-        A empresa Divino Doces Finos oferece aos seus clientes um serviço diferenciado e personalizado. Você escolhe o recheio, a base e a decoração, e a equipe confeccionará todos os docinhos de acordo com as suas preferências e gostos.
-        </p>       
+        <h2>
+        Nossa missão é prover momentos mais doces.
+        </h2>  
+        <p>Nossos brigadeiros são produzidos artesanalmente com ingredientes selecionados e receitas exclusivas. Tudo isso para garantir um sabor irresistível! </p>     
 </div>
